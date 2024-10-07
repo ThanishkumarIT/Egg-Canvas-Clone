@@ -1,0 +1,487 @@
+.relative1{
+    position: relative;
+}
+.img1{
+    position: absolute;
+    width:270px;
+    top: 50px;
+    left: 170px;
+}
+.h1{
+    position: absolute;
+    top: 70px;
+    right: 590px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+}
+.h2{
+    position: absolute;
+    top: 70px;
+    right: 540px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+}
+.h3{
+    position: absolute;
+    top: 70px;
+    right: 460px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+}
+.h4{
+    position: absolute;
+    top: 70px;
+    right: 410px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+}
+.h5{
+    position: absolute;
+    top: 70px;
+    right: 350px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+}
+.img2{
+    position: absolute;
+    width:20px;
+    top: 70px;
+    right: 310px;
+}
+.img3{
+    position: absolute;
+    width:20px;
+    top: 70px;
+    right: 270px;
+}
+.img4{
+    position: absolute;
+    width:20px;
+    top: 70px;
+    right: 230px;
+}
+.img5{
+    position: absolute;
+    width:20px;
+    top: 70px;
+    right: 190px;
+}
+.img6{
+    position: absolute;
+    width:27px;
+    top: 67px;
+    right: 150px;
+}
+.relative2{
+    position: relative;
+}
+.img7{
+    position: absolute;
+    width:190px;
+    top: 220px;
+    left: 180px;
+}
+.img8{
+    position: absolute;
+    width:190px;
+    top: 220px;
+    left: 390px;
+}
+.img9{
+    position: absolute;
+    width:190px;
+    top: 220px;
+    left: 600px;
+}
+.img10{
+    position: absolute;
+    width:190px;
+    top: 220px;
+    left: 800px;
+}
+.img11{
+    position: absolute;
+    width:190px;
+    top: 220px;
+    left: 1000px;
+}
+span{
+    color: rgb(143, 140, 143);
+    font-size: 14px;
+}
+.p1{
+    position: absolute;
+    top: 420px;
+    left: 180px;
+    font-size: 20px;
+}
+.p2{
+    position: absolute;
+    top: 420px;
+    left: 390px;
+    font-size: 20px;
+}
+.p3{
+    position: absolute;
+    top: 420px;
+    left: 600px;
+    font-size: 20px;
+}
+.p4{
+    position: absolute;
+    top: 420px;
+    left: 800px;
+    font-size: 20px;
+}
+.p5{
+    position: absolute;
+    top: 420px;
+    left: 1000px;
+    font-size: 20px;
+}
+.relative3{
+    position: relative;
+}
+.img12{
+    position: absolute;
+    width:190px;
+    top: 540px;
+    left: 180px;
+}
+.img13{
+    position: absolute;
+    width:190px;
+    top: 540px;
+    left: 390px;
+}
+.img14{
+    position: absolute;
+    width:190px;
+    top: 540px;
+    left: 600px;
+}
+.img15{
+    position: absolute;
+    width:190px;
+    top: 540px;
+    left: 800px;
+}
+.img16{
+    position: absolute;
+    width:190px;
+    top: 540px;
+    left: 1000px;
+}
+.p6{
+    position: absolute;
+    top: 740px;
+    left: 180px;
+    font-size: 20px;
+}
+.p7{
+    position: absolute;
+    top: 740px;
+    left: 390px;
+    font-size: 20px;
+}
+.p8{
+    position: absolute;
+    top: 740px;
+    left: 600px;
+    font-size: 20px;
+}
+.p9{
+    position: absolute;
+    top: 740px;
+    left: 810px;
+    font-size: 20px;
+}
+.p10{
+    position: absolute;
+    top: 740px;
+    left: 1000px;
+    font-size: 20px;
+}
+
+
+
+
+.img17{
+    position: relative;
+    width: 1500px;
+    height: 450px;
+    top: 900px;
+}
+.para1{
+    position: absolute;
+    top: 1050px;
+    left: 300px;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.para2{
+    position: absolute;
+    top: 1100px;
+    left: 450px;
+    letter-spacing: 5px;
+    font-size: 30px;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.para3{
+    position: absolute;
+    top: 1180px;
+    left: 570px;
+    letter-spacing: 5px;
+    font-size: 15px;
+    border: 2px solid white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.para3:hover{
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}
+
+.relative4{
+    position: relative;
+}
+.h6{
+    position: absolute;
+    top: 950px;
+    left: 150px;
+    letter-spacing: 3px;
+}
+.img18{
+    position: absolute;
+    width:190px;
+    top: 1000px;
+    left: 150px;
+}
+.img19{
+    position: absolute;
+    width:190px;
+    top: 1200px;
+    left: 150px;
+}
+.h7{
+    position: absolute;
+    top: 950px;
+    left: 850px;
+    letter-spacing: 3px;
+}
+.img20{
+    position: absolute;
+    width:190px;
+    height: 180px;
+    top: 1400px;
+    left: 150px;
+}
+.img21{
+    position: absolute;
+    width:190px;
+    top: 1600px;
+    left: 150px;
+}
+.p11{
+    position: absolute;
+    top: 1040px;
+    left: 370px;
+    font-size: 20px;
+}
+.p12{
+    position: absolute;
+    top: 1240px;
+    left: 370px;
+    font-size: 20px;
+}
+.p13{
+    position: absolute;
+    top: 1440px;
+    left: 370px;
+    font-size: 20px;
+}
+.p14{
+    position: absolute;
+    top: 1640px;
+    left: 370px;
+    font-size: 20px;
+}
+.img22{
+    position: absolute;
+    width:160px;
+    top: 1000px;
+    right: 320px;
+}
+.img23{
+    position: absolute;
+    width:160px;
+    top: 1190px;
+    right: 320px;
+}
+.img24{
+    position: absolute;
+    width:160px;
+    top: 1380px;
+    right: 320px;
+}
+.img25{
+    position: absolute;
+    width:160px;
+    height: 150px;
+    top: 1570px;
+    right: 320px;
+}
+.p15{
+    position: absolute;
+    top: 1040px;
+    right: 150px;
+    font-size: 20px;
+}
+.p16{
+    position: absolute;
+    top: 1240px;
+    right: 80px;
+    font-size: 20px;
+}
+.p17{
+    position: absolute;
+    top: 1440px;
+    right: 90px;
+    font-size: 20px;
+}
+.p18{
+    position: absolute;
+    top: 1640px;
+    right: 80px;
+    font-size: 20px;
+}
+.relative5{
+    position: relative;
+}
+.img26{
+    position: absolute;
+    top: 1800px;
+    width: 500px;
+    height: 500px;
+    right: 450px;
+}
+.p19_1{
+    position: relative;
+}
+.p19_2{
+    position: absolute;
+    padding-left: 385px;
+    padding-right: 440px;
+    padding-top: 2300px;
+    letter-spacing: 3px;
+    line-height: 1.8;
+}
+.p19_3{
+    position: absolute;
+    padding-left: 385px;
+    padding-right: 440px;
+    padding-top: 2500px;
+    line-height: 1.8;
+}
+.relative6{
+    position: relative;
+}
+.h8{
+    position: absolute;
+    top: 2700px;
+    left: 550px;
+    letter-spacing: 3px;
+}
+.h9{
+    position: absolute;
+    top: 2750px;
+    left: 500px;
+    font-size: 30px;
+    letter-spacing: 3px;
+}
+.img27{
+    position: absolute;
+    top: 2880px;
+    width: 200px;
+    height: 250px;
+    left: 180px;
+}
+.img28{
+    position: absolute;
+    top: 2880px;
+    width: 200px;
+    height: 250px;
+    left: 390px;
+}
+.img29{
+    position: absolute;
+    top: 2880px;
+    width: 200px;
+    height: 250px;
+    left: 600px;
+}
+.img30{
+    position: absolute;
+    top: 2880px;
+    width: 200px;
+    height: 250px;
+    left: 810px;
+}
+.img31{
+    position: absolute;
+    top: 2880px;
+    width: 200px;
+    height: 250px;
+    left: 1020px;
+}
+.img32{
+    position: absolute;
+    top: 3140px;
+    width: 200px;
+    height: 250px;
+    left: 180px;
+}
+.img33{
+    position: absolute;
+    top: 3140px;
+    width: 200px;
+    height: 250px;
+    left: 390px;
+}
+.img34{
+    position: absolute;
+    top: 3140px;
+    width: 200px;
+    height: 250px;
+    left: 600px;
+}
+.img35{
+    position: absolute;
+    top: 3140px;
+    width: 200px;
+    height: 250px;
+    left: 810px;
+}
+.img36{
+    position: absolute;
+    top: 3140px;
+    width: 200px;
+    height: 250px;
+    left: 1020px;
+}
